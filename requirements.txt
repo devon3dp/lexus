@@ -1,0 +1,11 @@
+web3==6.4.0
+solana==0.29.0
+mnemonic==0.20
+requests
+python-dotenv
+openai==0.27.8
+pycryptodome==3.18.0
+cryptography
+pandas
+numpy
+flask
